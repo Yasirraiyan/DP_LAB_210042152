@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Ride Sharing App Design Pattern SWE-4502 Lab-01/1.0.0": {
+        "runtime": {
+          "Ride Sharing App Design Pattern SWE-4502 Lab-01.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ride Sharing App Design Pattern SWE-4502 Lab-01/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
